@@ -10,7 +10,7 @@ The goal of the WebFX project is to build a **JavaFX transpiler**, the last miss
 
 ## For what kind of applications?
 
-Although most of the demos made so far are mainly graphical applications, the real final target of the project is **Enterprise applications**. We aim to provide a complete **ecosystem** for WebFX, that will allow developing Enterprise level applications such as systems with back-office, front-office & backend. We are clearly heading in that direction, WebFX being now closely related to the [Modality project](https://github.com/modalityproject/modality), the first real-world Enterprise application built on WebFX. More explanation is provided in the next 2 sections below.
+Although most of the demos made so far are mainly graphical applications, the real final target of the project is **Enterprise applications**. We aim to provide a complete **ecosystem** for WebFX, that will allow developing Enterprise level applications such as systems with back-office, front-office & backend. We are clearly heading in that direction, WebFX being now closely related to the [Modality project](https://github.com/modalityproject/modality), the first real-world Enterprise application built on WebFX.
 
 ## The WebFX ecosystem
 
@@ -32,5 +32,5 @@ Typically, a graphical application will use the WebFX Kit (the covered JavaFX AP
 
 ## Relation with Modality
 
-The current development of WebFX is now mainly supported by [Modality](https://github.com/modalityproject/modality), another open-source project on GitHub (*click on the link to know more about it*). Modality will be the first Enterprise level application based on WebFX. These 2 projects are supporting each other. WebFX provides the 100% Java full-stack cross-platform solution Modality was looking for, and Modality 
+The current development of WebFX is now mainly supported by [Modality](https://github.com/modalityproject/modality), another open-source project on GitHub (*click on the link for more details*). Modality will be the first Enterprise level application based on WebFX. These 2 projects are supporting each other. WebFX provides the 100% Java full-stack cross-platform solution Modality was looking for, and Modality 
 is the main contributor to the WebFX Stack and WebFX Extras repositories. It will also greatly help the WebFX project by demonstrating its capabilities for Enterprise level applications.
