@@ -10,7 +10,7 @@ The goal of the WebFX project is to build a **JavaFX transpiler**, the last miss
 
 ## For what kind of applications?
 
-Although most of the demos made so far are mainly graphical applications, the real final target of the project is **Enterprise applications**. We aim to provide a complete **ecosystem** for WebFX, that will allow developing Enterprise level applications such as systems with back-office, front-office & backend. We are clearly heading in that direction, WebFX being now closely related to the [Modality project](https://github.com/modalityproject/modality), the first real-world Enterprise application being built on WebFX.
+Although most of the demos made so far are mainly graphical applications, the real final target of the project are **Enterprise applications**. We aim to provide a complete **ecosystem** for WebFX, that will allow developing Enterprise level applications such as systems with back-office, front-office & backend. We are clearly heading in that direction, WebFX being now closely related to the [Modality project](https://github.com/modalityproject/modality), the first real-world Enterprise application being built on WebFX.
 
 ## The WebFX ecosystem
 
@@ -28,7 +28,7 @@ Although the [WebFX Kit](https://github.com/webfx-project/webfx) is the very hea
 
 *Each link above goes to the corresponding GitHub repository which provides more detailed information.*
 
-Typically, a graphical application will use the WebFX Kit (the covered JavaFX API), and eventually some WebFX libraries (like we did with most of the demos). An Enterprise application will in addition use the WebFX Stack and WebFX extras.
+Typically, a graphical application will use the WebFX Kit (with the covered JavaFX API), and eventually some WebFX libraries (like we did with all the demos, except the 2 first basic ones). An Enterprise application will, in addition, use the WebFX Stack and WebFX extras.
 
 ## Relation with Modality
 
