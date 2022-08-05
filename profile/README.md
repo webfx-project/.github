@@ -14,19 +14,22 @@ Although most of the demos made so far are graphical applications, the actual go
 
 ## The WebFX ecosystem
 
+Although the WebFX Kit is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
+
 <p align="center">
   <img src="https://docs.webfx.dev/webfx-project/webfx-ecosystem.svg" />
 </p>
 
-Although the [WebFX Kit](https://github.com/webfx-project/webfx) is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
+| Repository *                                                      | Description                                                                                   |
+|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| [WebFX Kit](https://github.com/webfx-project/webfx)               | A patched version of OpenJFX that can be transpiled by GWT.                                   |
+| [WebFX Platform](https://github.com/webfx-project/webfx-platform) | Our foundation layer & API for cross-platform development.                                    |
+| [WebFX CLI](https://github.com/webfx-project/webfx-cli)           | A tool to assist developers to build WebFX applications.                                      |
+| [WebFX Libs](https://github.com/webfx-libs)                       | A space for hosting existing JavaFX libraries ported for WebFX, or brand new WebFX libraries. |
+| [WebFX Extras](https://github.com/webfx-project/webfx-extras)     | A collection of extra JavaFX controls such as data grid, grant view, etc...                   |
+| [WebFX Stack](https://github.com/webfx-project/webfx-stack)       | A collection of framework pieces for enterprise applications.                                 |
 
-* The [WebFX Platform](https://github.com/webfx-project/webfx-platform) is our foundation layer & API for cross-platform development.
-* The [WebFX CLI](https://github.com/webfx-project/webfx-cli) is the tool assisting developers to build WebFX applications.
-* [WebFX Libs](https://github.com/webfx-libs) is a space for hosting existing JavaFX libraries ported for WebFX, or brand new WebFX libraries.
-* [WebFX Extras](https://github.com/webfx-project/webfx-extras) is a collection of extra JavaFX controls such as data grid, grant view, etc...
-* The [WebFX Stack](https://github.com/webfx-project/webfx-stack) is a collection of framework pieces for enterprise applications.
-
-*Each link above goes to the corresponding GitHub repository which provides more detailed information.*
+*\* Each link goes to the corresponding GitHub repository whose README provides more detailed information.*
 
 Typically, a graphical application will use the WebFX Kit (with its covered JavaFX API), and eventually some other WebFX libraries (like we did in most of the [demos](https://github.com/webfx-demos)). An Enterprise application will, in addition, use the WebFX Stack and WebFX extras.
 
