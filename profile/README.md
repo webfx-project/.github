@@ -30,6 +30,6 @@ Although the [WebFX Kit](https://github.com/webfx-project/webfx) is the very hea
 
 Typically, a graphical application will use the WebFX Kit (with its covered JavaFX API), and eventually some other WebFX libraries (like we did with all the demos - except the 2 first basic ones). An Enterprise application will, in addition, use the WebFX Stack and WebFX extras.
 
-## Relation with Modality
+## Relation with the Modality project
 
-The development of WebFX is now supported by [Modality](https://github.com/modalityproject/modality), another open-source project on GitHub (*click on the link for a description of the project*). Modality will be the first Enterprise level application based on WebFX. These 2 projects are supporting each other. WebFX provides the 100% Java full-stack cross-platform solution Modality was looking for, and Modality is the main contributor to the WebFX Stack and WebFX Extras repositories. It will also greatly help the WebFX project by demonstrating its capabilities for Enterprise level applications.
+The development of the WebFX project is now supported by the [Modality project](https://github.com/modalityproject/modality), another open-source project on GitHub (*click on the link for a description of the project*). Modality will be the first Enterprise level application based on WebFX. These 2 projects are supporting each other. WebFX provides the 100% Java full-stack cross-platform solution Modality was looking for, and Modality is the main contributor to the WebFX Stack and WebFX Extras repositories. It will also greatly help the WebFX project by demonstrating its capabilities for Enterprise level applications.
