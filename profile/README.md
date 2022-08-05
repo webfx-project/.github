@@ -2,7 +2,7 @@
 
 ## The goal 
 
-The goal of the WebFX project is to build a **JavaFX transpiler**, the final missing piece of the puzzle to offer Java developers a **fully cross-platform** UI toolkit targeting all major platforms natively (desktops, mobiles & web) from a single codebase, with Gluon already providing solutions for platforms other than the web. 
+The goal of the WebFX project is to build a **JavaFX transpiler**, the final missing piece of the puzzle to offer Java developers a **fully cross-platform** UI toolkit targeting all major platforms natively (desktops, mobiles & web) from a single codebase, with [Gluon](https://gluonhq.com/) already providing solutions for platforms other than the web. 
 
 <p align="center">
   <img src="https://docs.webfx.dev/webfx-cross-platform.svg" />
