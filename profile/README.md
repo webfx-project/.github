@@ -16,9 +16,9 @@ Although most of the demos made so far are graphical applications, the actual go
 
 Although the WebFX Kit is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
 
-<p align="center">
+<div align="center">
   <img src="https://docs.webfx.dev/webfx-project/webfx-ecosystem.svg" />
-</p>
+
 
 | Repository *                                                      | Description                                                                                   |
 |-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -26,10 +26,12 @@ Although the WebFX Kit is the very heart of the project, there are other importa
 | [WebFX Platform](https://github.com/webfx-project/webfx-platform) | Our foundation layer & API for cross-platform development.                                    |
 | [WebFX CLI](https://github.com/webfx-project/webfx-cli)           | A tool to assist developers to build WebFX applications.                                      |
 | [WebFX Libs](https://github.com/webfx-libs)                       | A space for hosting existing JavaFX libraries ported for WebFX, or brand new WebFX libraries. |
-| [WebFX Extras](https://github.com/webfx-project/webfx-extras)     | A collection of extra JavaFX controls such as data grid, grant view, etc...                   |
 | [WebFX Stack](https://github.com/webfx-project/webfx-stack)       | A collection of framework pieces for enterprise applications.                                 |
+| [WebFX Extras](https://github.com/webfx-project/webfx-extras)     | A collection of extra JavaFX controls such as data grid, grant view, etc...                   |
 
 *\* Each link goes to the corresponding GitHub repository whose README provides more detailed information.*
+
+</div>
 
 Typically, a graphical application will use the WebFX Kit (with its covered JavaFX API), and eventually some other WebFX libraries (like we did in most of the [demos](https://github.com/webfx-demos)). An Enterprise application will, in addition, use the WebFX Stack and WebFX extras.
 
