@@ -19,6 +19,7 @@ Although the WebFX Kit is the very heart of the project, there are other importa
 <div align="center">
   <img src="https://docs.webfx.dev/webfx-project/webfx-ecosystem.svg" />
 
+  <p></p>
 
 | Repository *                                                      | Description                                                                                   |
 |-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
