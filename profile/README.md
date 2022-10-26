@@ -6,8 +6,8 @@ The goal of the WebFX project is to build a **JavaFX transpiler**, the final mis
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://docs.webfx.dev/webfx-readmes/webfx-project-dark.svg">
-      <img src="https://docs.webfx.dev/webfx-readmes/webfx-project-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://docs.webfx.dev/webfx-readmes/webfx-cross-platform-dark.svg">
+        <img src="https://docs.webfx.dev/webfx-cross-platform.svg" />
     </picture>
 </p>
 
@@ -20,7 +20,10 @@ Although most of the demos made so far are graphical applications, the actual go
 Although the WebFX Kit is the very heart of the project, there are other important repositories that together comprise the WebFX ecosystem:
 
 <div align="center">
-  <img src="https://docs.webfx.dev/webfx-project/webfx-ecosystem.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://docs.webfx.dev/webfx-readmes/webfx-project-dark.svg">
+      <img src="https://docs.webfx.dev/webfx-readmes/webfx-project-light.svg" />
+    </picture>
 
   <p></p>
 
