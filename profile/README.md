@@ -27,14 +27,15 @@ Although the WebFX Kit is the very heart of the project, there are other importa
 
   <p></p>
 
-| Repository *                                                      | Description                                                                                   |
-|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| [WebFX Kit](https://github.com/webfx-project/webfx)               | A patched version of OpenJFX that can be transpiled by GWT.                                   |
-| [WebFX Platform](https://github.com/webfx-project/webfx-platform) | Our foundation layer & API for cross-platform development.                                    |
-| [WebFX CLI](https://github.com/webfx-project/webfx-cli)           | A tool to assist developers to build WebFX applications.                                      |
+| Repository *                                                      | Description                                                                                   | Estimated value |
+|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|:--------:|
+| [WebFX Kit](https://github.com/webfx-project/webfx)               | A patched version of OpenJFX that can be transpiled by GWT.                                   | ![Scc COCOMO Badge](https://sloc.xyz/github/webfx-project/webfx/?category=cocomo) |
+| [WebFX Platform](https://github.com/webfx-project/webfx-platform) | Our foundation layer & API for cross-platform development.                                    | ![Scc COCOMO Badge](https://sloc.xyz/github/webfx-project/webfx-platform/?category=cocomo) |
+| [WebFX Extras](https://github.com/webfx-project/webfx-extras)     | A collection of extra JavaFX controls such as data grid, Gantt view, etc...                   | ![Scc COCOMO Badge](https://sloc.xyz/github/webfx-project/webfx-extras/?category=cocomo) |
+| [WebFX Stack](https://github.com/webfx-project/webfx-stack)       | A collection of framework pieces for enterprise applications.                                 | ![Scc COCOMO Badge](https://sloc.xyz/github/webfx-project/webfx-stack/?category=cocomo) |
+| [WebFX CLI](https://github.com/webfx-project/webfx-cli)           | A tool to assist developers to build WebFX applications.                                      | ![Scc COCOMO Badge](https://sloc.xyz/github/webfx-project/webfx-cli/?category=cocomo)
 | [WebFX Libs](https://github.com/webfx-libs)                       | A space for hosting existing JavaFX libraries ported for WebFX, or brand new WebFX libraries. |
-| [WebFX Stack](https://github.com/webfx-project/webfx-stack)       | A collection of framework pieces for enterprise applications.                                 |
-| [WebFX Extras](https://github.com/webfx-project/webfx-extras)     | A collection of extra JavaFX controls such as data grid, Gantt view, etc...                   |
+
 
 *\* Each link goes to the corresponding GitHub repository whose README provides more detailed information.*
 
