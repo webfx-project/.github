@@ -27,7 +27,7 @@ Although the WebFX Kit is the very heart of the project, there are other importa
 
   <p></p>
 
-| Repository *                                                      | Description                                                                                   | Estimated value |
+| Repository *                                                      | Description                                                                                   | Cost estimation |
 |-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|:--------:|
 | [WebFX Kit](https://github.com/webfx-project/webfx)               | A patched version of OpenJFX that can be transpiled by GWT.                                   | ![Scc COCOMO Badge](https://sloc.xyz/github/webfx-project/webfx/?category=cocomo) |
 | [WebFX Platform](https://github.com/webfx-project/webfx-platform) | Our foundation layer & API for cross-platform development.                                    | ![Scc COCOMO Badge](https://sloc.xyz/github/webfx-project/webfx-platform/?category=cocomo) |
